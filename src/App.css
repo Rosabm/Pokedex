@@ -29,11 +29,12 @@
   }
   
   .typeBox {
-    width: 80px;
+    width: auto;
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
     float: left;
+    text-align: center;  
   }
   
   .water {background-color: #6390F0;}
