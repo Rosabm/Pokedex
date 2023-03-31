@@ -5,8 +5,7 @@ export default function Root() {
   return (
     <>
       <nav>
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
+        <Link to="/">Home</Link> <p>|</p> <Link to="/about">About</Link>
       </nav>
       <Outlet />
     </>
