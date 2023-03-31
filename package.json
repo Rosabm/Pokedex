@@ -1,5 +1,6 @@
 {
   "name": "pokedex",
+  "homepage": "https://rosabm.github.io/Pokedex",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,7 +38,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://rosabm.github.io/Pokedex"
+    ]
   }
 }

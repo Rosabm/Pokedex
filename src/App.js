@@ -98,7 +98,7 @@ function App() {
 
         <label>Page: {page}</label>
 
-        <button onClick={goNext}> NEXT</button>
+        {page !== 84 ? <button onClick={goNext}> NEXT</button> : ""}
       </div>
     </>
   );
